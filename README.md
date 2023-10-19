@@ -111,7 +111,7 @@ To run the Student Study Django App on your local machine, follow these steps:
    python manage.py runserver
    ```
 
-9. Open your web browser and navigate to [http://localhost:8000/](http://localhost:8000/) to access the app.
+9. Open your web browser and navigate to [http://localhost:8000/](http://localhost:8000/) to access the app. 
 
 ## Usage
 
